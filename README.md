@@ -1,2 +1,2 @@
 # snakegame
-A snake game
+A snake game with awesome graphics :p
